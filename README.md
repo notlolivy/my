@@ -2,4 +2,7 @@
 projects kekw
 i dont know whats happening
 
-betterdecisiondorcom.py is a simple decision maker I made to play with Tkinker
+betterdecisiondorcom.py 
+  simple decision maker I made to play with Tkinker.
+buttons.py
+  pick the button of the right text color
